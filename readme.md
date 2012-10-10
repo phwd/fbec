@@ -166,6 +166,7 @@ This list is heavily based on
   - 503 - API_EC_MESG_RATE: User has sent too many messages
   - 504 - API_EC_MESG_INVALID_THREAD: Invalid reply thread id
   - 505 - API_EC_MESG_INVALID_RECIP: Invalid message recipient
+  - 506 - Duplicate status message
   - 510 - API_EC_POKE_INVALID_RECIP: Invalid poke recipient
   - 511 - API_EC_POKE_OUTSTANDING: There is a poke already outstanding
   - 512 - API_EC_POKE_RATE: User is poking too fast
