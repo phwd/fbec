@@ -157,6 +157,19 @@ This list is heavily based on
   - 453 - API_EC_SESSION_REQUIRED: A session key is required for calling this method
   - 454 - API_EC_SESSION_REQUIRED_FOR_SECRET: A session key must be specified when request is signed with a session secret
   - 455 - API_EC_SESSION_CANNOT_USE_SESSION_SECRET: A session secret is not permitted to be used with this type of session key
+  - 456 - The session is malformed
+  - 457 - The session has an invalid origin
+  - 458 - User USER_ID has not authorized application APP_ID
+  - 459 - The user has been checkpointed. The error_data will contain the URL the user needs to go to to clear the checkpoint
+  - 460 - Session does not match current stored session. This may be because the user changed the password since the time the session was created or Facebook has changed the session for security reasons
+  - 461 - Session is invalid. This could be because the application was uninstalled after the session was created
+  - 462 - The session has a stale version
+  - 464 - The session user is not confirmed
+  - 463 - Session has expired at unix time SOME_TIME. The current unix time is SOME_TIME
+  - 465 - The session user is invalid
+  - 466 - The session was invalidated explicitly using an API call
+  - 467 - The session is invalid because the user logged out
+  - 468 - The session is invalid, because the user has not used the app for a long time
 
 **Application Messaging Errors**
 
