@@ -196,6 +196,7 @@ This list is heavily based on
   - 604 - FQL_EC_NO_INDEX: Your statement is not indexable
   - 605 - FQL_EC_UNKNOWN_FUNCTION: The function you called does not exist
   - 606 - FQL_EC_INVALID_PARAM: Wrong number of arguments passed into the function
+  - 606 - You do not have permission to fetch notifications for this user
   - 607 - FQL_EC_INVALID_FIELD: FQL field specified is invalid in this context.
   - 608 - FQL_EC_INVALID_SESSION: An invalid session was specified
   - 609 - FQL_EC_UNSUPPORTED_APP_TYPE: FQL field specified is invalid in this context.
