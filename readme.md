@@ -331,3 +331,5 @@ This list is heavily based on
   - 2901 - API_EC_TEST_ACCOUNTS_INVALID_ID: Test user is not associated with this app.
   - 2902 - API_EC_TEST_ACCOUNTS_CANT_REMOVE_APP: Test user must be associated with at least one app
   - 2903 - API_EC_TEST_ACCOUNTS_CANT_DELETE: Test user is associated with multiple apps
+
+  - 3000 - Reading Insights of a Page/App/Domain not owned by the querying user or application
