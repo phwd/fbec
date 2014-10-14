@@ -42,6 +42,7 @@ This list is heavily based on
   - 112 - API_EC_PARAM_SOCIAL_FIELD: Invalid user field
   - 113 - API_EC_PARAM_EMAIL: Invalid email
   - 114 - API_EC_PARAM_USER_ID_LIST: Invalid user ID list
+  - 114 - An id must be a valid ID string (e.g., \"123\")
   - 115 - API_EC_PARAM_FIELD_LIST: Invalid field list
   - 120 - API_EC_PARAM_ALBUM_ID: Invalid album id
   - 121 - API_EC_PARAM_PHOTO_ID: Invalid photo id
