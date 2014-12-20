@@ -151,6 +151,8 @@ This list is heavily based on
   - 402 - API_EC_AUTH_SIG: Invalid application auth sig
   - 403 - API_EC_AUTH_TIME: Invalid timestamp for authentication
 
+  - 412 - User has not installed the application
+
 **Session Errors**
 
   - 450 - API_EC_SESSION_TIMED_OUT: Session key specified has passed its expiration time
