@@ -51,6 +51,7 @@ This list is heavily based on
   - 141 - API_EC_PARAM_SUBCATEGORY: Invalid subcategory
   - 142 - API_EC_PARAM_TITLE: Invalid title
   - 143 - API_EC_PARAM_DESCRIPTION: Invalid description
+  - 145 - API calls from the server require an appsecret_proof argument
   - 144 - API_EC_PARAM_BAD_JSON: Malformed JSON string
   - 150 - API_EC_PARAM_BAD_EID: Invalid eid
   - 151 - API_EC_PARAM_UNKNOWN_CITY: Unknown city
