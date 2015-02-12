@@ -192,6 +192,7 @@ This list is heavily based on
   - 512 - API_EC_POKE_RATE: User is poking too fast
   - 513 - API_EC_POKE_USER_BLOCKED: User cannot poke via API
   - 521 - You can't add yourself as a friend
+  - 522 - You are already friends with this user
   - 528 - This user already has too many friend requests
 
 **FQL Errors**
