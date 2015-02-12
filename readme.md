@@ -191,6 +191,7 @@ This list is heavily based on
   - 511 - API_EC_POKE_OUTSTANDING: There is a poke already outstanding
   - 512 - API_EC_POKE_RATE: User is poking too fast
   - 513 - API_EC_POKE_USER_BLOCKED: User cannot poke via API
+  - 528 - This user already has too many friend requests
 
 **FQL Errors**
 
