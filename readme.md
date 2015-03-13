@@ -344,3 +344,7 @@ This list is heavily based on
   - 2903 - API_EC_TEST_ACCOUNTS_CANT_DELETE: Test user is associated with multiple apps
 
   - 3000 - Reading Insights of a Page/App/Domain not owned by the querying user or application
+
+**???**
+
+  - 1487168 - The account is invalid: The account is invalid
