@@ -344,6 +344,8 @@ This list is heavily based on
   - 2903 - API_EC_TEST_ACCOUNTS_CANT_DELETE: Test user is associated with multiple apps
 
   - 3000 - Reading Insights of a Page/App/Domain not owned by the querying user or application
+  - 3301 - That code isn't working. Please check the code and try again.
+  - 3303 - Sorry, you have made too many incorrect guesses. Please request another code.
 
 **???**
 
