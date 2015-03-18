@@ -68,6 +68,7 @@ This list is heavily based on
   - 211 - API_EC_PERMISSION_NO_DEVELOPERS: Application has no developers.	
   - 212 - API_EC_PERMISSION_OFFLINE_ACCESS: Renewing a session offline requires the extended permission offline_access
   - 220 - API_EC_PERMISSION_ALBUM: Album or albums not visible
+  - 220 - User cannot delete this album.
   - 221 - API_EC_PERMISSION_PHOTO: Photo not visible
   - 230 - API_EC_PERMISSION_MESSAGE: Permissions disallow message to user
   - 240 - API_EC_PERMISSION_MARKUP_OTHER_USER: Desktop applications cannot set FBML for other users
