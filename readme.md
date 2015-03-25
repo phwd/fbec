@@ -32,6 +32,7 @@ This list is heavily based on
 **Parameter Errors**
 
   - 100 - API_EC_PARAM: Invalid parameter
+  - 100 - No permission to publish the video
   - 101 - API_EC_PARAM_API_KEY: Invalid API key
   - 102 - API_EC_PARAM_SESSION_KEY: Session key invalid or no longer valid
   - 103 - API_EC_PARAM_CALL_ID: Call_id must be greater than previous
