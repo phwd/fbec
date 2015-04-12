@@ -348,6 +348,8 @@ This list is heavily based on
   - 3000 - Reading Insights of a Page/App/Domain not owned by the querying user or application
   - 3301 - That code isn't working. Please check the code and try again.
   - 3303 - Sorry, you have made too many incorrect guesses. Please request another code.
+  
+  - 3403 - Achievement hasn't been registered for this application. See https://developers.facebook.com/docs/howtos/achievements/
 
 **???**
 
