@@ -20,6 +20,7 @@ This list is heavily based on
   - 8	- API_EC_SECURE: This method requires an HTTPS connection
   - 9	- API_EC_RATE: User is performing too many actions
   - 10 - API_EC_PERMISSION_DENIED: Application does not have permission for this action
+  - 10 - User cannot delete action
   - 11 - API_EC_DEPRECATED: This method is deprecated
   - 12 - API_EC_VERSION: This API version is deprecated
   - 13 - API_EC_INTERNAL_FQL_ERROR: The underlying FQL query made by this API call has encountered an error. Please check that your parameters are correct.
