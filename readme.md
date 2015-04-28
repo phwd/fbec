@@ -67,6 +67,7 @@ This list is heavily based on
 **User Permission Errors**
 
   - 200 - API_EC_PERMISSION: Permissions error
+  - 200 - User does not have permission to post to target
   - 210 - API_EC_PERMISSION_USER: User not visible
   - 211 - API_EC_PERMISSION_NO_DEVELOPERS: Application has no developers.	
   - 212 - API_EC_PERMISSION_OFFLINE_ACCESS: Renewing a session offline requires the extended permission offline_access
