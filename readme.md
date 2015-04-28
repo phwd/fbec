@@ -131,6 +131,7 @@ This list is heavily based on
   - 365 - API_EC_EDIT_FEED_TEMPLATE: The template for this story does not match any templates registered for this application
   - 366 - API_EC_EDIT_FEED_TARGET: One or more of the target ids for this story are invalid. They must all be ids of friends of the acting user
   - 367 - API_EC_EDIT_FEED_MARKUP: The template data provided doesn't cover the entire token set needed to publish the story
+  - 368 - The action attempted has been deemed abusive or is otherwise disallowed
   - 370 - API_EC_USERS_CREATE_INVALID_EMAIL: The email address you provided is not a valid email address
   - 371 - API_EC_USERS_CREATE_EXISTING_EMAIL: The email address you provided belongs to an existing account
   - 372 - API_EC_USERS_CREATE_BIRTHDAY: The birthday provided is not valid
