@@ -99,6 +99,7 @@ This list is heavily based on
   - 300 - API_EC_EDIT: Edit failure
   - 310 - API_EC_EDIT_USER_DATA: User data edit failure
   - 320 - API_EC_EDIT_PHOTO: Photo edit failure
+  - 320 - This photo is not wide enough to use as a Timeline Cover, the minimum width is 399 pixels
   - 321 - API_EC_EDIT_ALBUM_SIZE: Album is full
   - 322 - API_EC_EDIT_PHOTO_TAG_SUBJECT: Invalid photo tag subject
   - 323 - API_EC_EDIT_PHOTO_TAG_PHOTO: Cannot tag photo already visible on Facebook
