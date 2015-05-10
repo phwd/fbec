@@ -357,6 +357,8 @@ This list is heavily based on
   
   - 3403 - Achievement hasn't been registered for this application. See https://developers.facebook.com/docs/howtos/achievements/
 
+  - 3910 - You need permission to edit the details of your Business Manager. Please talk to one of your Business Manager admins about changing your role or editing the Business Manager details.
+
 **???**
 
   - 1487168 - The account is invalid: The account is invalid
