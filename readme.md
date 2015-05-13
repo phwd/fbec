@@ -69,6 +69,7 @@ This list is heavily based on
   - 200 - API_EC_PERMISSION: Permissions error
   - 200 - User does not have permission to post to target
   - 200 - Video is either deleted or you do not have permission to view it
+  - 200 - This post wasn't created by the application
   - 210 - API_EC_PERMISSION_USER: User not visible
   - 211 - API_EC_PERMISSION_NO_DEVELOPERS: Application has no developers.	
   - 212 - API_EC_PERMISSION_OFFLINE_ACCESS: Renewing a session offline requires the extended permission offline_access
