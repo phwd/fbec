@@ -79,6 +79,7 @@ This list is heavily based on
   - 221 - API_EC_PERMISSION_PHOTO: Photo not visible
   - 230 - API_EC_PERMISSION_MESSAGE: Permissions disallow message to user
   - 240 - API_EC_PERMISSION_MARKUP_OTHER_USER: Desktop applications cannot set FBML for other users
+  - 240 - This user isn't allowed to upload photos to this object's wall
   - 250 - API_EC_PERMISSION_STATUS_UPDATE: Updating status requires the extended permission status_update.
   - 260 - API_EC_PERMISSION_PHOTO_UPLOAD: Modifying existing photos requires the extended permission photo_upload	
   - 261 - API_EC_PERMISSION_VIDEO_UPLOAD: Modifying existing photos requires the extended permission photo_upload
