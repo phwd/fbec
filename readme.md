@@ -20,6 +20,7 @@ This list is heavily based on
   - 8	- API_EC_SECURE: This method requires an HTTPS connection
   - 9	- API_EC_RATE: User is performing too many actions
   - 10 - API_EC_PERMISSION_DENIED: Application does not have permission for this action
+  - 10 - User cannot edit action
   - 10 - User cannot delete action
   - 11 - API_EC_DEPRECATED: This method is deprecated
   - 12 - API_EC_VERSION: This API version is deprecated
