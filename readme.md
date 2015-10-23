@@ -188,6 +188,7 @@ This list is heavily based on
   - 466 - The session was invalidated explicitly using an API call
   - 467 - The session is invalid because the user logged out
   - 468 - The session is invalid, because the user has not used the app for a long time
+  - 478 - The images you tried to upload are too many
 
 **Application Messaging Errors**
 
