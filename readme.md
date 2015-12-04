@@ -22,6 +22,7 @@ This list is heavily based on
   - 10 - API_EC_PERMISSION_DENIED: Application does not have permission for this action
   - 10 - User cannot edit action
   - 10 - User cannot delete action
+  - 10 - Not a Messenger client
   - 11 - API_EC_DEPRECATED: This method is deprecated
   - 12 - API_EC_VERSION: This API version is deprecated
   - 13 - API_EC_INTERNAL_FQL_ERROR: The underlying FQL query made by this API call has encountered an error. Please check that your parameters are correct.
