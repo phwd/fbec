@@ -208,6 +208,8 @@ This list is heavily based on
   - 522 - You are already friends with this user
   - 528 - This user already has too many friend requests
 
+  - 546 - The type of file you're trying to attach isn't allowed. Please try again with a different format.
+
 **FQL Errors**
 
   - 600 - FQL_EC_UNKNOWN_ERROR: An unknown error occurred in FQL
