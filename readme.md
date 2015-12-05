@@ -353,6 +353,8 @@ This list is heavily based on
   - 1705 - API_EC_COMMENTS_INVALID_POST: There was an error during posting.
   - 1706 - API_EC_COMMENTS_INVALID_REMOVE: While attempting to remove the post
 
+  - 2500 - Syntax error \"Field id specified more than once. This is only possible before version 2.1\" at character 5: id,id
+
 **Test Users**
 
   - 2901 - API_EC_TEST_ACCOUNTS_INVALID_ID: Test user is not associated with this app.
