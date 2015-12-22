@@ -378,4 +378,5 @@ This list is heavily based on
 
   - 1363041 - Invalid upload session given.
   - 1487168 - The account is invalid: The account is invalid
+  - 1504021 - The sharding key must be a page_id
   - -3 - Please reduce the amount of data you're asking for, then retry your request [Encountered eg when setting high limit on query to huge page feed]
