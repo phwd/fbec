@@ -68,6 +68,7 @@ This list is heavily based on
   - 180 - API_EC_PARAM_BLOCKED_NOTIFICATION: This notification was not delieved
   - 190 - API_EC_PARAM_ACCESS_TOKEN: Invalid OAuth 2.0 Access Token
   - 190 - The access token does not match the user claiming the offer
+  - 190 - The access token does not match the user resending the offer
   - 193 - The time specified is too far back in the past. Please do a full refresh of the friends using the friend FQL table
 
 **User Permission Errors**
