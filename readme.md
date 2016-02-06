@@ -79,6 +79,7 @@ This list is heavily based on
   - 200 - User does not have permission to post to target
   - 200 - Video is either deleted or you do not have permission to view it
   - 200 - This post wasn't created by the application
+  - 200 - Posts where the actor is a page cannot also include a target_id other than EVENT or GROUP"
   - 210 - API_EC_PERMISSION_USER: User not visible
   - 211 - API_EC_PERMISSION_NO_DEVELOPERS: Application has no developers.	
   - 212 - API_EC_PERMISSION_OFFLINE_ACCESS: Renewing a session offline requires the extended permission offline_access
