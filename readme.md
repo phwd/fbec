@@ -94,6 +94,7 @@ This list is heavily based on
   - 261 - API_EC_PERMISSION_VIDEO_UPLOAD: Modifying existing photos requires the extended permission photo_upload
   - 270 - API_EC_PERMISSION_SMS: Permissions disallow sms to user.
   - 273 - This Ads API call requires the user to be admin of the ad account. User <MY_USER_ID> not admin on ad account <ACT_ID>
+  - 275 - Reading advertisements requires an access token with the extended permission ads_read
   - 280 - API_EC_PERMISSION_CREATE_LISTING: Creating and modifying listings requires the extended permission create_listing
   - 281 - API_EC_PERMISSION_CREATE_NOTE: Managing notes requires the extended permission create_note.
   - 282 - API_EC_PERMISSION_SHARE_ITEM: Managing shared items requires the extended permission share_item.
