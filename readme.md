@@ -42,6 +42,7 @@ This list is heavily based on
   - 100 - Object does not support message editing
   - 100 - Please enter a valid email address
   - 100 - Comment not found
+  - 100 - Must be a valid ISO 4217 currency code
   - 101 - API_EC_PARAM_API_KEY: Invalid API key
   - 102 - API_EC_PARAM_SESSION_KEY: Session key invalid or no longer valid
   - 103 - API_EC_PARAM_CALL_ID: Call_id must be greater than previous
