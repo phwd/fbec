@@ -23,6 +23,7 @@ This list is heavily based on
   - 10 - User cannot edit action
   - 10 - User cannot delete action
   - 10 - Not a Messenger client
+  - 10 - The app updating this status card must be the same one that created the corresponding page's CTA.
   - 11 - API_EC_DEPRECATED: This method is deprecated
   - 12 - API_EC_VERSION: This API version is deprecated
   - 13 - API_EC_INTERNAL_FQL_ERROR: The underlying FQL query made by this API call has encountered an error. Please check that your parameters are correct.
