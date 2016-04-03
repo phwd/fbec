@@ -385,6 +385,7 @@ This list is heavily based on
   - 3910 - You need permission to edit the details of your Business Manager. Please talk to one of your Business Manager admins about changing your role or editing the Business Manager details.
   
   - 4004 - User cannot be added as an admin of this group
+  - 4006 - User cannot be removed as admin of this group"
 
   - 4202 - This dialog cannot be displayed on this device
 
