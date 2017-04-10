@@ -48,6 +48,7 @@ This list is heavily based on
   - 100 - inst_type must be one of the following values: CreditCard, ApplePayCard
   - 100 - Unsupported post request. Object with ID 'me' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
   - 100 - Must be a valid ISO 4217 currency code
+  - 100 - Param preferred_thumbnail_id must be a thumbnail of this video.
   - 101 - API_EC_PARAM_API_KEY: Invalid API key
   - 102 - API_EC_PARAM_SESSION_KEY: Session key invalid or no longer valid
   - 103 - API_EC_PARAM_CALL_ID: Call_id must be greater than previous
