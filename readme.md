@@ -185,7 +185,7 @@ This list is heavily based on
   - 401 - API_EC_AUTH_LOGIN: Invalid username or password
   - 402 - API_EC_AUTH_SIG: Invalid application auth sig
   - 403 - API_EC_AUTH_TIME: Invalid timestamp for authentication
-
+  - 411 - The user is not allowed to log into this app
   - 412 - User has not installed the application
 
 **Session Errors**
