@@ -37,6 +37,7 @@ This list is heavily based on
 
 **Parameter Errors**
 
+  - 100 - Something is wrong
   - 100 - API_EC_PARAM: Invalid parameter
   - 100 - No permission to publish the video
   - 100 - Cannot post to User Likes with Page Access Token
