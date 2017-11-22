@@ -51,6 +51,7 @@ This list is heavily based on
   - 100 - Must be a valid ISO 4217 currency code
   - 100 - Param preferred_thumbnail_id must be a thumbnail of this video.
   - 100 - Param tid must be a thread id, thread fbid, or canonical id
+  - 100 - The page is not qualified to use Video Copyright API. Please verify that the page has completed Video Copyright API onboarding process.
   - 100 - Employee Account or Specific App Conditions 
   - 101 - API_EC_PARAM_API_KEY: Invalid API key
   - 102 - API_EC_PARAM_SESSION_KEY: Session key invalid or no longer valid
