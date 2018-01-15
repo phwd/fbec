@@ -24,6 +24,7 @@ This list is heavily based on
   - 10 - User cannot delete action
   - 10 - Not a Messenger client
   - 10 - The app updating this status card must be the same one that created the corresponding page's CTA.
+  - 10 - This setting was in an unexpected state, and could not be enabled.
   - 10 - Request is not from facebook IOS app
   - 11 - API_EC_DEPRECATED: This method is deprecated
   - 12 - API_EC_VERSION: This API version is deprecated
