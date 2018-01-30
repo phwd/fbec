@@ -27,6 +27,7 @@ This list is heavily based on
   - 10 - The app updating this status card must be the same one that created the corresponding page's CTA.
   - 10 - This setting was in an unexpected state, and could not be enabled.
   - 10 - Request is not from facebook IOS app
+  - 10 - User is not mentioned in the caption
   - 11 - API_EC_DEPRECATED: This method is deprecated
   - 12 - API_EC_VERSION: This API version is deprecated
   - 13 - API_EC_INTERNAL_FQL_ERROR: The underlying FQL query made by this API call has encountered an error. Please check that your parameters are correct.
