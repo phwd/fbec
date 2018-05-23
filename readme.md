@@ -233,6 +233,7 @@ This list is heavily based on
   - 521 - You can't add yourself as a friend
   - 522 - You are already friends with this user
   - 528 - This user already has too many friend requests
+  - 529 - This user is not valid
 
   - 546 - The type of file you're trying to attach isn't allowed. Please try again with a different format.
 
