@@ -408,6 +408,7 @@ This list is heavily based on
   - 10000 - Sorry, something went wrong. Please try again later.
   - 10010 - Sorry, something went wrong. Please wait a little while, then try sending your payment again.
   - 23005 - Failed to accept the request
+  - 25303 - Your request cannot be completed because of permission or validation denied
   - 1363041 - Invalid upload session given.
   - 1487168 - The account is invalid: The account is invalid
   - 1504021 - The sharding key must be a page_id
