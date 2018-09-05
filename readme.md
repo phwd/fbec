@@ -36,6 +36,7 @@ This list is heavily based on
   - 16 - API_EC_HOST_READONLY: This method cannot be run on this host, which only supports read-only calls
   - 17 - API_EC_USER_TOO_MANY_CALLS: User request limit reached
   - 18 - API_EC_REQUEST_RESOURCES_EXCEEDED: This API call could not be completed due to resource limits
+  - 20 - This API call does not support the requested response format
   - 27 - This app does not have permission to manage this Facebook at Work account.
 
 **Parameter Errors**
