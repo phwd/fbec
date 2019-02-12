@@ -392,12 +392,14 @@ This list is heavily based on
   - 3115 - Captcha verification failed
   - 3301 - That code isn't working. Please check the code and try again.
   - 3303 - Sorry, you have made too many incorrect guesses. Please request another code.
-
+  - 3403 - Achievement hasn't been registered for this application. See https://developers.facebook.com/docs/howtos/achievements/
   - 3802 - User cannot reblock target so soon after unblocking target
   - 3953 - Provided application does not belong to the business
-  - 3403 - Achievement hasn't been registered for this application. See https://developers.facebook.com/docs/howtos/achievements/
+
 
   - 3910 - You need permission to edit the details of your Business Manager. Please talk to one of your Business Manager admins about changing your role or editing the Business Manager details.
+
+  - 3962 - Provided permission is not valid. Check you spelling and syntax.
   
   - 4004 - User cannot be added as an admin of this group
   - 4006 - User cannot be removed as admin of this group"
