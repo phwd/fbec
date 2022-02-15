@@ -39,6 +39,10 @@ This list is heavily based on
   - 20 - This API call does not support the requested response format
   - 27 - This app does not have permission to manage this Facebook at Work account.
 
+***OAuthException***
+  - 30 - Duplicate Fundraiser
+    -- sub-code - 1965015 - This fundraiser is identical to the last one you created. Try visiting your timeline to see your fundraiser, or delete your previous fundraiser.
+
 **Parameter Errors**
 
   - 100 - Something is wrong
