@@ -416,6 +416,7 @@ This list is heavily based on
   - 10010 - Sorry, something went wrong. Please wait a little while, then try sending your payment again.
   - 23005 - Failed to accept the request
   - 25303 - Your request cannot be completed because of permission or validation denied
+  - 1010002 - Insufficient permissions to access this data
   - 1363041 - Invalid upload session given.
   - 1383130 - Your payment couldn't be completed. Please try again.
   - 1487168 - The account is invalid: The account is invalid
