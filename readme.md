@@ -421,6 +421,7 @@ This list is heavily based on
   - 1383130 - Your payment couldn't be completed. Please try again.
   - 1487168 - The account is invalid: The account is invalid
   - 1504021 - The sharding key must be a page_id
+  - 1891788 - User does not have permission to override geo country
   - 2853001 - profile is not linked to delegate page. profile should always be linked to delegate page
  
   - -3 - Please reduce the amount of data you're asking for, then retry your request [Encountered eg when setting high limit on query to huge page feed]
